@@ -1,4 +1,4 @@
-Sobre mim:
+Sobre mim:<br/>
 👋 Oi, sou Lucas Nicolau :) <br/><br>👀 Sou estudante de Eng. de Software na UFAM <br/><br>🌱 Atualmente meus estudos estão voltados para a àre de desenvolvimento web full stack, além dos estudos advindos da universidade <br/><br>📫 Meu linkedin: lucasnicolau-dev <br/><br>
 
 
