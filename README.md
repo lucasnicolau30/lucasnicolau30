@@ -94,12 +94,10 @@ Inglês fluente, foco em back-end, código limpo e soluções que funcionam de v
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="420"
-       src="https://github-readme-stats.vercel.app/api?username=lucasnicolau30&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  
-  &nbsp;&nbsp;
-  
-  <img width="360"
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=lucasnicolau30&show_icons=true&theme=github_dark&hide_border=true&count_private=true&layout=compact" />
+
+  <img height="160"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnicolau30&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
