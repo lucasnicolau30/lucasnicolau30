@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Lucas Nicolau · Oi, sou Lucas Nicolau</h2>
 
 <p align="center">
-  <em>Software Engineering student @ UFAM · Full Stack Developer · Automation & QA</em><br/>
+  <em>Software Engineering student @ UFAM · Full Stack Developer · Back-end & Automation</em><br/>
   <em>Estudante de Engenharia de Software @ UFAM · Desenvolvedor Full Stack · Automação & QA</em>
 </p>
 
