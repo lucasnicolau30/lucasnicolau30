@@ -51,6 +51,7 @@ Inglês fluente, foco em back-end, código limpo e soluções que funcionam de v
 
 | Project | Description | Tech |
 |---|---|---|
+| [**cervejaria-cem-bot **](https://github.com/lucasnicolau30/cervejaria-cem-bot) | Full-stack WhatsApp bot for event booking at a brewery — handles scheduling, payments, and Google Sheets integration, with a REST API and frontend dashboard | Node.js, Express, TypeScript, Google Sheets API |
 | [**wc-2026-simulator**](https://github.com/lucasnicolau30/wc-2026-simulator) | Full-stack FIFA World Cup 2026 simulator with dual simulation modes (automatic and manual), knockout bracket generation, best third-place logic, and player-level statistics | Node.js, Express, MySQL, JavaScript |
 | [**pytest-api-client**](https://github.com/lucasnicolau30/pytest-api-client) | Custom REST API test automation framework built at RedMaxx — 98% route accuracy, CSV reports, positive/negative scenarios | Python, Pytest |
 | [**pace-2025**](https://github.com/lucasnicolau30/pace-2025) | Full stack web app for UFAM's PACE project — patient records, Google Sheets API integration, used in real scientific research | Node.js, Express, JS, Google Sheets API |
