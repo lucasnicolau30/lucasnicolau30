@@ -1,6 +1,6 @@
 <h2 align="center">Lucas Nicolau Ferreira</h2>
 <p align="center">
-  <em>Full Stack Developer @ Grupo Bringel</em>
+  <em>Full Stack Developer @ Grupo Bringel · Ex-QA & Test Automation</em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasnicolau-dev/" target="_blank">
@@ -34,12 +34,12 @@ Still finishing my Software Engineering degree at UFAM, but my focus today is bu
 
 | Project | Description | Tech |
 |---|---|---|
+| [`healthlink-sentinel`](https://github.com/jhonny-barroncas/healthlink-sentinel) | Corporate monitoring platform for mobile health units, built with a friend — multi-tenant architecture, JWT auth, RBAC, audit logging, Zabbix integration and a local Starlink agent | Fastify, React, PostgreSQL, Redis, Docker |
 | [`sentry`](https://github.com/lucasnicolau30/sentry) | Change-oriented test quality CLI, published on PyPI as `sentry-test` — audits coverage and quality from the code diff, no LLM calls, fully local | Python, PyPI, CLI |
 | [`nest-typeorm`](https://github.com/lucasnicolau30/nest-typeorm) | Task management REST API with JWT authentication, DTO validation, SQL migrations and dynamic search | NestJS, TypeORM, PostgreSQL, JWT |
 | [`pytest-api-client`](https://github.com/lucasnicolau30/pytest-api-client) | Custom REST API test automation framework built at RedMaxx — 98% test coverage, CSV reports | Python, Pytest |
 | [`cervejaria-cem-bot`](https://github.com/lucasnicolau30/cervejaria-cem-bot) | Full-stack WhatsApp bot for event booking — scheduling, payments, and Google Sheets integration, with a REST API and dashboard | Node.js, Express, TypeScript |
 | [`pace-2025`](https://github.com/lucasnicolau30/pace-2025) | Full stack web app for UFAM's PACE project — patient records, Google Sheets API integration, used in real scientific research | Node.js, Express, JS |
-| [`wc-2026-simulator`](https://github.com/lucasnicolau30/wc-2026-simulator) | Full-stack FIFA World Cup 2026 simulator with dual simulation modes, knockout bracket generation and player statistics | Node.js, Express, MySQL |
 
 ---
 
