@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Nicolau Ferreira</h1>
-<h3 align="center">Full Stack Developer @ Grupo Bringel - Ex-QA &amp; Test Automation</h3>
+<h3 align="center">Full Stack Developer @ Grupo Bringel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasnicolau-dev/">
@@ -37,7 +37,7 @@ I also volunteered as a developer on the **PACE** extension project (Promoting H
 | **[nest-typeorm](https://github.com/lucasnicolau30/nest-typeorm)** | Task management REST API with JWT authentication, DTO validation and migrations | NestJS, TypeORM, PostgreSQL, JWT |
 | **[pytest-api-client](https://github.com/lucasnicolau30/pytest-api-client)** | Custom API test automation framework built at RedMaxx, 98% coverage | Python, Pytest |
 | **[cervejaria-cem-bot](https://github.com/lucasnicolau30/cervejaria-cem-bot)** | Full Stack WhatsApp bot for event booking, payments and Google Sheets integration | Node.js, Express, TypeScript |
-| **[pace-2025](https://github.com/lucasnicolau30/pace-2025)** ([demo](https://pace-2025-rcn7.onrender.com/)) | Full Stack application for the PACE/UFAM project, patient registration and Google Sheets integration | Node.js, Express, JS |
+| **[pace-2025](https://github.com/lucasnicolau30/pace-2025)** | Full Stack application for the PACE/UFAM project, patient registration and Google Sheets integration | Node.js, Express, JS |
 
 ---
 
