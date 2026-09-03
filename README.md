@@ -1,14 +1,14 @@
-<h1 align="center">Lucas Nicolau Ferreira</h1>h1>
-<h3 align="center">Full Stack Developer @ Grupo Bringel</h3>h3>
+<h1 align="center">Lucas Nicolau Ferreira</h1>
+<h3 align="center">Full Stack Developer @ Grupo Bringel · Ex-QA & Test Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasnicolau-dev/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>a>
-    <a href="https://pypi.org/project/sentry-test/">
-        <img src="https://img.shields.io/badge/PyPI-sentry--test-3775A9?style=flat&logo=pypi&logoColor=white" />
-    </a>a>
-</p>p>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/project/sentry-test/">
+    <img src="https://img.shields.io/badge/PyPI-sentry--test-3775A9?style=flat&logo=pypi&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -48,10 +48,9 @@ I also volunteered as a developer on the **PACE** extension project (Promoting H
 ---
 
 <p align="center">
-  <i>"Code is only good if it solves a real problem, and survives production."</i>i>
-</p>p>
+  <i>"Code is only good if it solves a real problem, and survives production."</i>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucasnicolau-dev/">LinkedIn</a>a> · <a href="mailto:nicolau.lucas04@gmail.com">Email</a>a>
-</p>p>
-</i>
+  <a href="https://www.linkedin.com/in/lucasnicolau-dev/">LinkedIn</a> · <a href="mailto:nicolau.lucas04@gmail.com">Email</a>
+</p>
