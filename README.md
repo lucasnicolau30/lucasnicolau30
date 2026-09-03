@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Nicolau Ferreira</h1>
-<h3 align="center">Full Stack Developer @ Grupo Bringel · Ex-QA & Test Automation</h3>
+<h3 align="center">Full Stack Developer @ Grupo Bringel</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasnicolau-dev/">
