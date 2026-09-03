@@ -1,5 +1,5 @@
 <h1 align="center">Lucas Nicolau Ferreira</h1>
-<h3 align="center">Full Stack Developer @ Grupo Bringel</h3>
+<h3 align="center">Full Stack Developer @ Grupo Bringel · Ex-QA & Test Automation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasnicolau-dev/">
@@ -20,7 +20,7 @@ I started my career in tech as a Tester/QA, which helped me develop a sharper ey
 
 Today I apply that same care for quality to development: I build interfaces in React and Next.js, REST APIs in Node.js, Nest.js, Express and Django, and model data with TypeORM and PostgreSQL, always delivering complete, tested, production-ready features.
 
-In parallel, I'm building **HealthLink Sentinel** with a colleague from Bringel: a corporate monitoring platform for mobile health units, with multi-tenant architecture, JWT authentication, RBAC, auditing, Zabbix integration and a local agent for Starlink antennas, running in production with Fastify, React, PostgreSQL, Redis and Docker.
+In parallel, I'm building **HealthLink Sentinel** with a colleague from Bringel: a corporate monitoring platform for health units, with authentication, role-based access control and integration with infrastructure systems, running in production.
 
 That same care for quality became a tool of its own: I created **[Sentry](https://pypi.org/project/sentry-test/)**, a Python CLI published on PyPI (sentry-test), which audits test coverage and quality from a code diff and issues an auditable verdict, with no telemetry, fully local, with integration for AI agents like Claude Code.
 
@@ -32,7 +32,7 @@ I also volunteered as a developer on the **PACE** extension project (Promoting H
 
 | Project | Description | Stack |
 |---|---|---|
-| **[healthlink-sentinel](https://github.com/jhonny-barroncas/healthlink-sentinel)** | Corporate monitoring platform for mobile health units, multi-tenant, JWT, RBAC, Zabbix integration and Starlink agent | Fastify, React, PostgreSQL, Redis, Docker |
+| **healthlink-sentinel** | Corporate monitoring platform for health units, with authentication, role-based access control and integration with infrastructure systems | Fastify, React, PostgreSQL, Redis, Docker |
 | **[sentry](https://github.com/lucasnicolau30/sentry)** | CLI that audits test coverage and quality from a code diff, published on PyPI | Python, PyPI, CLI |
 | **[nest-typeorm](https://github.com/lucasnicolau30/nest-typeorm)** | Task management REST API with JWT authentication, DTO validation and migrations | NestJS, TypeORM, PostgreSQL, JWT |
 | **[pytest-api-client](https://github.com/lucasnicolau30/pytest-api-client)** | Custom API test automation framework built at RedMaxx, 98% coverage | Python, Pytest |
